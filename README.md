@@ -35,3 +35,7 @@ Limits
 1. 目前的版本只支持D寄存器(区间为 0 <= D <= 255)， 由于三菱不同FX系列D寄存器个数配置不一样可以根据通信手册扩展和修改
 
 2. 在FX1S上测试通过
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/van9ogh/fx-serial/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
